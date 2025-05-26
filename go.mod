@@ -1,6 +1,6 @@
 module github.com/tomwright/dasel/v2
 
-go 1.21
+go 1.23.0
 
 require (
 	github.com/alecthomas/chroma/v2 v2.14.0
@@ -8,7 +8,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.2.2
 	github.com/spf13/cobra v1.8.1
 	golang.org/x/net v0.30.0
-	golang.org/x/text v0.19.0
+	golang.org/x/text v0.25.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
